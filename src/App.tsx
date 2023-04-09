@@ -1,10 +1,7 @@
-import './App.css';
-import StateManagement from './StateManagement';
+import "./App.css";
+import StateManagement from "./StateManagement";
 
 function App() {
-  return (
-    <StateManagement/>
-  );
+  return <StateManagement />;
 }
-
 export default App;
